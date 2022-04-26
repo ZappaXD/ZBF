@@ -1,7 +1,7 @@
-# ZSBF
+# ZBF
 
 # RUN SCRIPT
-# git clone https://github.com/ZappaXD/ZSBF
+# git clone https://github.com/ZappaXD/ZBF
 
 # cd ZBF
 # python ZBF.py
