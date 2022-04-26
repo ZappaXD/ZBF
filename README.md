@@ -1,9 +1,9 @@
 # ZSBF
 
 # RUN SCRIPT
-$ git clone https://github.com/ZappaXD/ZSBF
-$ cd ZBF
-$ python ZBF.py
+$git clone https://github.com/ZappaXD/ZSBF
+$cd ZBF
+$python ZBF.py
 
 # PRICE 
 30K - 1MONTH
