@@ -2,6 +2,7 @@
 
 # RUN SCRIPT
 $git clone https://github.com/ZappaXD/ZSBF
+
 $cd ZBF
 $python ZBF.py
 
